@@ -1,8 +1,3 @@
-/*Aniket Mishra
- * Pd 1
- * Rock Paper Scissors Project
- * 11/6/17
- */
 
 package bruh;
 
